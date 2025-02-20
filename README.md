@@ -35,6 +35,7 @@
 ### Safe RL 
 ### Explainable RL
 ### Adversial RL
+### Imitation RL
 ### Privacy in RL
 ### Inverse RL
 ### Transformer in RL
