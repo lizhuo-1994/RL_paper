@@ -42,12 +42,12 @@
 
 ## 2. Applications in AI and ML
 ### RL for LLM
-### RL for Game
+### RL for Robotics
+### RL for Autonomous Systems
 ### RL for Generative Models
-### RL Benchmarks
 ### RL for Finance
 ### RL for Healthcare
-### RL for Autonomous Systems
-### RL for Robotics
+### RL Benchmarks
+### RL for Game
 
 
