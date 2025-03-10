@@ -1,9 +1,7 @@
 
 # Reinforcement Learning (RL) Paper Domains
 
-## 1. Core Reinforcement Learning Theory
-
-### Classical methods 
+## Classical methods 
 
 * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf)
 * [Deep Recurrent Q-Learning for Partially Observable MDPs](https://arxiv.org/abs/1507.06527)
@@ -25,29 +23,28 @@
 * [Distributional Reinforcement Learning with Quantile Regression](https://arxiv.org/abs/1710.10044)
 * [Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/abs/1806.06923)
 
-### Model-based RL 
-### Offline RL 
-### Multi-Agent RL 
-### Hierarchical RL 
-### Meta-RL 
-### Memory-Based RL
-### Exploration in RL
-### Safe RL 
-### Explainable RL
-### Adversial RL
-### Imitation RL
-### Privacy in RL
-### Inverse RL
-### Transformer in RL
-
-## 2. Applications in AI and ML
-### RL for LLM
-### RL for Robotics
-### RL for Autonomous Systems
-### RL for Generative Models
-### RL for Finance
-### RL for Healthcare
-### RL Benchmarks
-### RL for Game
+## Model-based RL 
+## Offline RL 
+## Multi-Agent RL 
+## Hierarchical RL 
+## Meta-RL 
+## Memory-Based RL
+## Exploration in RL
+## Safe RL 
+## Explainable RL
+## Adversial RL
+## Imitation RL
+## Privacy in RL
+## Inverse RL
+## Transformer in RL
+## RL for LLM
+## RL for Multi-Modal
+## RL for Robotics
+## RL for Autonomous Driving Systems
+## RL for Generative Models
+## RL for Finance
+## RL for Healthcare
+## RL Benchmarks
+## RL for Game
 
 
