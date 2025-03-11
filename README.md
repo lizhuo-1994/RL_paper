@@ -1,6 +1,8 @@
 
 # Reinforcement Learning (RL) Paper Domains
 
+*I am working on constructing a general RL paper repository. Currently I am reading RL related paper in details, and very happy to invite researchers who are interested in building this repository together with me. Most of my resources are from Google Scholar, Openreview, ACM Digital Libararies, Top-Tier AI Conferences, and open-source github repositories such as OpenDILab.*
+
 ## Classical methods 
 
 * [Playing Atari with Deep Reinforcement Learning](https://www.cs.toronto.edu/~vmnih/docs/dqn.pdf) (DQN)
