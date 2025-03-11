@@ -24,6 +24,21 @@
 * [Implicit Quantile Networks for Distributional Reinforcement Learning](https://arxiv.org/abs/1806.06923)
 
 ## Model-based RL 
+
+* [PILCO: A Model-Based and Data-Efficient Approach to Policy Search](https://dl.acm.org/doi/10.5555/3104482.3104541)
+* [Learning Complex Neural Network Policies with Trajectory Optimization](https://proceedings.mlr.press/v32/levine14.html)
+* [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142)
+* [Value Prediction Network](https://arxiv.org/abs/1707.03497)
+* [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675)
+* [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999)
+* [Deep Reinforcement Learning in a Handful of Trials using Probabilistic Dynamics Models](https://arxiv.org/abs/1805.12114)
+* [When to Trust Your Model: Model-Based Policy Optimization](https://arxiv.org/abs/1906.08253)
+* [Algorithmic Framework for Model-based Deep Reinforcement Learning with Theoretical Guarantees](https://arxiv.org/abs/1807.03858)
+* [Model-Ensemble Trust-Region Policy Optimization](https://openreview.net/forum?id=SJJinbWRZ)
+* [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
+* [Exploring Model-based Planning with Policy Networks](https://openreview.net/forum?id=H1exf64KwH)
+* [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+
 ## Offline RL 
 ## Multi-Agent RL 
 ## Hierarchical RL 
