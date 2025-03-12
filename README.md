@@ -30,7 +30,7 @@
 ### Classical Paper
 
 * [PILCO: A Model-Based and Data-Efficient Approach to Policy Search](https://dl.acm.org/doi/10.5555/3104482.3104541) (Gaussian Process-Based Probabilistic Modelling)
-* [Learning Complex Neural Network Policies with Trajectory Optimization](https://proceedings.mlr.press/v32/levine14.html)
+* [Learning Complex Neural Network Policies with Trajectory Optimization](https://proceedings.mlr.press/v32/levine14.html) (Iterative Linear Quadratic Gaussian-Based Trejctory Optimization and Policy Learning)
 * [Learning Continuous Control Policies by Stochastic Value Gradients](https://arxiv.org/abs/1510.09142)
 * [Value Prediction Network](https://arxiv.org/abs/1707.03497)
 * [Sample-Efficient Reinforcement Learning with Stochastic Ensemble Value Expansion](https://arxiv.org/abs/1807.01675)
