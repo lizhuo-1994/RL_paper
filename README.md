@@ -27,7 +27,7 @@
 
 ## Model-based RL 
 
-### Classical Paper
+### Classical and Survey Paper
 
 * [PILCO: A Model-Based and Data-Efficient Approach to Policy Search](https://dl.acm.org/doi/10.5555/3104482.3104541) (Gaussian Process-Based Probabilistic Modelling)
 * [Learning Complex Neural Network Policies with Trajectory Optimization](https://proceedings.mlr.press/v32/levine14.html) (Iterative Linear Quadratic Gaussian-Based Trejctory Optimization and Policy Learning)
@@ -43,10 +43,6 @@
 * [Exploring Model-based Planning with Policy Networks](https://openreview.net/forum?id=H1exf64KwH)
 * [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
 
-### ICML 2021
-### NIPS 2021
-### ICLR 2021
-
 ## Offline RL 
 ## Multi-Agent RL 
 ## Hierarchical RL 
@@ -59,6 +55,12 @@
 ## Imitation RL
 ## Privacy in RL
 ## Inverse RL
+
+### Classical and Survey Paper
+
+* [A survey of inverse reinforcement learning](https://link.springer.com/article/10.1007/s10462-021-10108-x)
+
+
 ## Transformer in RL
 ## RL for LLM
 ## RL for Multi-Modal
