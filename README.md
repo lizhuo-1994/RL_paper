@@ -59,6 +59,7 @@
 ## Memory-Based RL
 ## Exploration in RL
 ## Safe RL 
+## Goal-Conditioned RL
 ## Explainable RL
 ## Adversial RL
 ## Imitation RL
