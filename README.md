@@ -42,6 +42,7 @@
 * [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603)
 * [Exploring Model-based Planning with Policy Networks](https://openreview.net/forum?id=H1exf64KwH)
 * [Mastering Atari, Go, Chess and Shogi by Planning with a Learned Model](https://arxiv.org/abs/1911.08265)
+* [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193)
 
 ### Survey and Review
 
