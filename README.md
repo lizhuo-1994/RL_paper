@@ -47,7 +47,7 @@
 
 * [Model-based Reinforcement Learning: A Survey](https://ieeexplore.ieee.org/document/10007800)
 * [Model-Based or Model-Free, a Review of Approaches in Reinforcement Learning](https://ieeexplore.ieee.org/document/9275964)
-* [A Survey on Model-based Reinforcement Learning](https://link.springer.com/article/10.1007/s11432-022-3696-5)
+* [A Survey on Model-based Reinforcement Learning](https://github.com/lizhuo-1994/RL_paper/blob/main/s11432-022-3696-5.pdf)
 
 
 
