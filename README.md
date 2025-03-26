@@ -53,6 +53,15 @@
 
 
 ## Offline RL 
+
+### Representative Paper
+
+### Survey and Review
+* [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
+* [A Survey on Offline Model-Based Reinforcement Learning](https://arxiv.org/abs/2305.03360)
+* [A Survey on Offline Reinforcement Learning: Taxonomy, Review, and Open Problems](https://arxiv.org/abs/2203.01387)
+* [Offline Reinforcement Learning: Tutorial, Review, and Perspectives on Open Problems](https://arxiv.org/abs/2005.01643)
+
 ## Multi-Agent RL 
 ## Hierarchical RL 
 ## Meta-RL 
