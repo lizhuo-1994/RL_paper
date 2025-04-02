@@ -81,9 +81,9 @@
 
 ### Representative Paper
 
-* [A survey of inverse reinforcement learning](https://link.springer.com/article/10.1007/s10462-021-10108-x)
 
 ### Survey and Review
+* [A survey of inverse reinforcement learning](https://link.springer.com/article/10.1007/s10462-021-10108-x)
 
 
 ## Transformer in RL
