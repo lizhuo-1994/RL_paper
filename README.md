@@ -87,6 +87,7 @@
 
 
 ## Transformer in RL
+## Causal RL
 ## RL for LLM
 ## RL for Multi-Modal
 ## RL for Robotics
