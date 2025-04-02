@@ -55,7 +55,11 @@
 ## Offline RL 
 
 ### Representative Paper
+* [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900)
+* [A Closer Look at Offline RL Agents](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3908cadfcc99db12001eafb1207353e9-Abstract-Conference.html)
+* [Conservative state value estimation for offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6e469fbdc43ade121170f61096f4458b-Abstract-Conference.html)
 
+  
 ### Survey and Review
 * [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
 * [A Survey on Offline Model-Based Reinforcement Learning](https://arxiv.org/abs/2305.03360)
