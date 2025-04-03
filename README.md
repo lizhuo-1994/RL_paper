@@ -75,6 +75,7 @@
 * [Adaptive Advantage-Guided Policy Regularization for Offline Reinforcement Learning](https://openreview.net/pdf?id=FV3kY9FBW6)
 * [Q-value Regularized Transformer for Offline Reinforcement Learning](https://openreview.net/pdf?id=ojtddicekd)
 * [Diffusion Policies as an Expressive Policy Class for Offline Reinforcement Learning](https://openreview.net/pdf?id=AHvFDPi-FA)
+* [Adversarial Model for Offline Reinforcement Learning](https://arxiv.org/pdf/2302.11048)
 
 ### Survey and Review
 * [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
