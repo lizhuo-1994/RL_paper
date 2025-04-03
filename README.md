@@ -65,7 +65,7 @@
 * [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/pdf/2110.06169)
 * [A Closer Look at Offline RL Agents](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3908cadfcc99db12001eafb1207353e9-Abstract-Conference.html)
 * [Conservative state value estimation for offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6e469fbdc43ade121170f61096f4458b-Abstract-Conference.html)
-* [State-Action Similarity-Based Representations forOff-Policy Evaluation](https://arxiv.org/pdf/2310.18409)
+* [State-Action Similarity-Based Representations for Off-Policy Evaluation](https://arxiv.org/pdf/2310.18409)
 * [Comparing Model-free and Model-based Algorithms for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.05433)
 * [Efficient Online Reinforcement Learning with Offline Data](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf)
 * [The Generalization Gap in Offline Reinforcement Learning](https://openreview.net/pdf?id=3w6xuXDOdY)
