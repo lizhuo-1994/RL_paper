@@ -55,11 +55,26 @@
 ## Offline RL 
 
 ### Representative Paper
+* [AlgaeDICE: Policy Gradient from Arbitrary Experience](https://arxiv.org/pdf/1912.02074)
+* [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361)
+* [Advantage-Weighted Regression: Simple and Scalable Off-Policy Reinforcement Learning](https://xbpeng.github.io/projects/AWR/AWR_2019.pdf)
+* [Conservative Q-Learning for Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/0d2b2061826a5df3221116a5085a6052-Paper.pdf)
+* [MOReL: Model-Based Offline Reinforcement Learning](https://proceedings.neurips.cc/paper_files/paper/2020/file/f7efa4f864ae9b88d43527f4b14f750f-Paper.pdf)
 * [Off-Policy Deep Reinforcement Learning without Exploration](https://arxiv.org/pdf/1812.02900)
+* [An Optimistic Perspective on Offline Reinforcement Learning](https://arxiv.org/pdf/1907.04543)
+* [Offline Reinforcement Learning with Implicit Q-Learning](https://arxiv.org/pdf/2110.06169)
 * [A Closer Look at Offline RL Agents](https://proceedings.neurips.cc/paper_files/paper/2022/hash/3908cadfcc99db12001eafb1207353e9-Abstract-Conference.html)
 * [Conservative state value estimation for offline reinforcement learning](https://proceedings.neurips.cc/paper_files/paper/2023/hash/6e469fbdc43ade121170f61096f4458b-Abstract-Conference.html)
+* [State-Action Similarity-Based Representations forOff-Policy Evaluation](https://arxiv.org/pdf/2310.18409)
+* [Comparing Model-free and Model-based Algorithms for Offline Reinforcement Learning](https://arxiv.org/pdf/2201.05433)
+* [Efficient Online Reinforcement Learning with Offline Data](https://proceedings.mlr.press/v202/ball23a/ball23a.pdf)
+* [The Generalization Gap in Offline Reinforcement Learning](https://openreview.net/pdf?id=3w6xuXDOdY)
+* [A2PO: Towards Effective Offline Reinforcement Learning from an Advantage-aware Perspective](https://proceedings.neurips.cc/paper_files/paper/2024/file/333a7697dbb67f09249337f81c27d749-Paper-Conference.pdf)
+* [Offline Reinforcement Learning with OOD State Correction and OOD Action Suppression](https://proceedings.neurips.cc/paper_files/paper/2024/file/a9f3457fa97f106f1756885237787789-Paper-Conference.pdf)
+* [Enhancing Value Function Estimation through First-Order State-Action Dynamics in Offline Reinforcement Learning](https://proceedings.mlr.press/v235/lien24a.html)
+* [Adaptive Advantage-Guided Policy Regularization for Offline Reinforcement Learning](https://openreview.net/pdf?id=FV3kY9FBW6)
+* [Q-value Regularized Transformer for Offline Reinforcement Learning](https://openreview.net/pdf?id=ojtddicekd)
 
-  
 ### Survey and Review
 * [Open Problems and Fundamental Limitations of Reinforcement Learning from Human Feedback](https://arxiv.org/abs/2307.15217)
 * [A Survey on Offline Model-Based Reinforcement Learning](https://arxiv.org/abs/2305.03360)
