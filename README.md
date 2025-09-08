@@ -108,6 +108,9 @@
 ## RL for LLM
 ## RL for Multi-Modal
 ## RL for Robotics
+
+* [Large Language Models as Generalizable Policies for Embodied Tasks](https://arxiv.org/pdf/2310.17722)
+
 ## RL for Autonomous Driving Systems
 ## RL for Generative Models
 ## RL for Finance
