@@ -109,7 +109,10 @@
 ## RL for Multi-Modal
 ## RL for Robotics
 
+### Representative Paper
 * [Large Language Models as Generalizable Policies for Embodied Tasks](https://arxiv.org/pdf/2310.17722)
+
+### Survey and Review
 
 ## RL for Autonomous Driving Systems
 ## RL for Generative Models
