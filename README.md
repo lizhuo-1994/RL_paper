@@ -118,6 +118,7 @@
 ## RL for Generative Models
 ## RL for Finance
 ## RL for Healthcare
+## RL for Transportation
 ## RL Benchmarks
 ## RL for Game
 
