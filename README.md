@@ -113,6 +113,7 @@
 * [Large Language Models as Generalizable Policies for Embodied Tasks](https://arxiv.org/pdf/2310.17722)
 
 ### Survey and Review
+* [Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes](https://arxiv.org/pdf/2408.03539)
 
 ## RL for Autonomous Driving Systems
 ## RL for Generative Models
