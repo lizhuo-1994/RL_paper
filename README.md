@@ -117,6 +117,7 @@
 * [Large Language Models as Generalizable Policies for Embodied Tasks](https://arxiv.org/pdf/2310.17722)
 
 ### Survey and Review
+* [Pure Vision Language Action (VLA) Models: A Comprehensive Survey](https://arxiv.org/pdf/2509.19012)
 * [Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes](https://arxiv.org/pdf/2408.03539)
 * [Reinforcement Learning in Vision: A Survey](https://arxiv.org/html/2508.08189v1)
 * [A Survey on Vision-Language-Action Models for Embodied AI](https://openreview.net/forum?id=LekzZUuOjE)
