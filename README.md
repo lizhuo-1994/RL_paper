@@ -107,13 +107,21 @@
 ## Causal RL
 ## RL for LLM
 ## RL for Multi-Modal
-## RL for Robotics
+## RL for Robotics (Including VLA)
+
+### Awesome Collection
+* https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
 
 ### Representative Paper
 * [Large Language Models as Generalizable Policies for Embodied Tasks](https://arxiv.org/pdf/2310.17722)
 
 ### Survey and Review
 * [Deep Reinforcement Learning for Robotics: A Survey of Real-World Successes](https://arxiv.org/pdf/2408.03539)
+* [Reinforcement Learning in Vision: A Survey](https://arxiv.org/html/2508.08189v1)
+* [A Survey on Vision-Language-Action Models for Embodied AI](https://openreview.net/forum?id=LekzZUuOjE)
+* [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/html/2505.19789v1)
+* [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io/data/paper.pdf)
+* 
 
 ## RL for Autonomous Driving Systems
 ## RL for Generative Models
