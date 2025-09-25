@@ -121,7 +121,6 @@
 * [A Survey on Vision-Language-Action Models for Embodied AI](https://openreview.net/forum?id=LekzZUuOjE)
 * [What Can RL Bring to VLA Generalization? An Empirical Study](https://arxiv.org/html/2505.19789v1)
 * [Vision-Language-Action Models for Robotics: A Review Towards Real-World Applications](https://vla-survey.github.io/data/paper.pdf)
-* 
 
 ## RL for Autonomous Driving Systems
 ## RL for Generative Models
