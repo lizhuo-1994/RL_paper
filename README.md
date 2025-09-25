@@ -111,6 +111,7 @@
 
 ### Awesome Collection
 * https://github.com/jonyzhang2023/awesome-embodied-vla-va-vln
+* https://github.com/XiaoWei-i/Awesome-VLA-RL
 
 ### Representative Paper
 * [Large Language Models as Generalizable Policies for Embodied Tasks](https://arxiv.org/pdf/2310.17722)
